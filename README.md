@@ -2,7 +2,7 @@
 
 這是基於nevermore-micro-V4的散熱風扇，可在淨化器及散熱風扇兩種型態下隨時做切換。
 
-This is a cooling fan based on nevermore-micro-V4, which can be switched at any time between the purifier and the cooling fan.
+This is a cooling fan based on nevermore-micro-V4, which can be switched at any time between the Activated Carbon Filters and the cooling fan.
 
 ![image](https://user-images.githubusercontent.com/53858352/230755015-e0432ab6-a293-43a8-a3f2-242ff9667994.png)
 -----------------------------------------------------------
